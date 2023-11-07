@@ -75,19 +75,21 @@ export const products = [
 export const services = [
   {
     imgURL: truckFast,
-    label: "Free shipping",
-    subtext: "Enjoy seamless shopping with our complimentary shipping service.",
+    label: "Envíos gratis",
+    subtext:
+      "Disfrute de una compra sin problemas con nuestro servicio de envío gratuito.",
   },
   {
     imgURL: shieldTick,
-    label: "Secure Payment",
+    label: "Paga seguro",
     subtext:
-      "Experience worry-free transactions with our secure payment options.",
+      "Realice transacciones sin preocupaciones con nuestras opciones de pago seguro.",
   },
   {
     imgURL: support,
-    label: "Love to help you",
-    subtext: "Our dedicated team is here to assist you every step of the way.",
+    label: "Te ayudamos en lo que necesites",
+    subtext:
+      "Nuestro equipo está a su disposición para ayudarte en todo momento.",
   },
 ];
 

@@ -27,7 +27,7 @@ const SuperQuality = () => {
           garantizan su satisfacción
         </p>
         <div className="mt-11">
-          <Button label="Descripcion" />
+          <Button label="Descripción" />
         </div>
       </div>
 
