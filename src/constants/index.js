@@ -97,16 +97,16 @@ export const reviews = [
   {
     imgURL: customer1,
     customerName: "Morich Brown",
-    rating: 4.5,
+    rating: 4.8,
     feedback:
-      "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
+      "La atención del personal y la calidad del producto superaron mis expectativas. Muy recomendables!",
   },
   {
     imgURL: customer2,
     customerName: "Lota Mongeskar",
-    rating: 4.5,
+    rating: 5,
     feedback:
-      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+      "El producto no sólo cumplió mis expectativas, sino que las superó. Sin duda, volveré a ser cliente.",
   },
 ];
 
