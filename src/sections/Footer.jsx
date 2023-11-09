@@ -67,7 +67,7 @@ const Footer = () => {
             height={20}
             className="rounded-full m-0"
           />
-          <p>Copyright. All rights reserved.</p>
+          <p>Copyright. Todos los derechos reservados.</p>
         </div>
         <a
           href="https://danielfabiani.vercel.app/"

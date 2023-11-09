@@ -112,7 +112,7 @@ export const reviews = [
 
 export const footerLinks = [
   {
-    title: "Products",
+    title: "Productos",
     links: [
       { name: "Air Force 1", link: "/" },
       { name: "Air Max 1", link: "/" },
@@ -123,7 +123,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Help",
+    title: "Nosotros",
     links: [
       { name: "About us", link: "/" },
       { name: "FAQs", link: "/" },
@@ -133,7 +133,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Get in touch",
+    title: "Contáctenos",
     links: [
       { name: "customer@nike.com", link: "mailto:customer@nike.com" },
       { name: "+92554862354", link: "tel:+92554862354" },
