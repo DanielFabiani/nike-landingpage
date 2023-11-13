@@ -1,8 +1,6 @@
 <div align='center'>
 
-<img src=https://live.staticflickr.com/65535/53329971829_04a743794b_z.jpg alt="logo" width= height= />
-
-<h1>Landingpage ecommerce</h1>
+<h1>Nike Landingpage ecommerce</h1>
 <p>This landing page showcases a premium selection of Nike products and provides essential store information, featuring the latest in athletic footwear, apparel, and accessories, while also offering key store data.</p>
 
 <h4> <a href=https://nike-landingpage-livid.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/DanielFabiani/nike-landingpage/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/DanielFabiani/nike-landingpage/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/DanielFabiani/nike-landingpage/issues"> Request Feature </a> </h4>
@@ -33,11 +31,9 @@
 | --------------- | ---------------------------------------------------------------- |
 | Primary Color | ![#FF6452](https://via.placeholder.com/10/FF6452?text=+) #FF6452 |
 | Secondary Color | ![#949494](https://via.placeholder.com/10/949494?text=+) #949494 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
 ## :handshake: Contact
 
-Daniel Fabiani - - danielfabiani.dev@gmail.com
+Daniel Fabiani - danielfabiani.dev@gmail.com
 
-Project Link: [https://github.com/DanielFabiani/nike-landingpage](https://github.com/DanielFabiani/nike-landingpage)
+Project Link: [https://nike-landingpage-livid.vercel.app/](https://nike-landingpage-livid.vercel.app/)
